@@ -1,0 +1,5 @@
+Type d'adresse : Publique
+Classe d'adresse : A
+Adresse du réseau : 0.0.0.0
+Adresse de l'hôte : 32.2.21.2
+Enregistrement des résultats dans le fichier resultats.txt réussi
