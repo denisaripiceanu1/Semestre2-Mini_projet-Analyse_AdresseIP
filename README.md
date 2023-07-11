@@ -1,4 +1,4 @@
-# Semestre2-Mini_projet-Communication_et_fonctionnement_bas_niveau
+# Semestre 2 - Mini-projet - Communication et fonctionnement bas niveau
 
 Note obtenue : 19/20
 
